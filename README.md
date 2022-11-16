@@ -2,7 +2,7 @@
   About Me
 </h2>
 
-I'm a Software Engineer based in the United Kingdom who primarily works on game development for third party companies that endevour in Minecraft™. 
+I'm a Software Engineer based in the United Kingdom who primarily works on game development for third party companies that endevour in [Minecraft](https://www.minecraft.net)™. 
 I have worked with some of the largest brand names within the community when I started back in 2013. I began my professional debut in 2018 by working
 with the leaders of sport betting within the United Kingdom. Since then I have stayed within gaming as it's layed back and dibbled in places like
 [FiveM](https://fivem.net) and [Roblox](https://www.roblox.com).
